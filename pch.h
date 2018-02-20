@@ -3,6 +3,7 @@
 
 #include <array>
 #include <iostream>
+#include <math.h>
 #include <memory>
 #include <vector>
 
