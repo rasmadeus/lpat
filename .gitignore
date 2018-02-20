@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+build-*
+lpat.pro.user
