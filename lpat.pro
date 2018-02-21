@@ -9,4 +9,5 @@ SOURCES += main.cpp
 
 HEADERS += \
     visitor.h \
-    pch.h
+    pch.h \
+    cor.h
