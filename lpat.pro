@@ -10,4 +10,5 @@ SOURCES += main.cpp
 HEADERS += \
     visitor.h \
     pch.h \
-    cor.h
+    cor.h \
+    flyweight.h
