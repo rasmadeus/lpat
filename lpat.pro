@@ -11,4 +11,5 @@ HEADERS += \
     visitor.h \
     pch.h \
     cor.h \
-    flyweight.h
+    flyweight.h \
+    mediator.h
