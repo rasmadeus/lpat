@@ -2,6 +2,7 @@
 #include "cor.h"
 #include "flyweight.h"
 #include "mediator.h"
+#include "momento.h"
 
 
 int main()
@@ -10,4 +11,5 @@ int main()
     COR::test();
     Flyweight::test();
     Mediator::test();
+    Momento::test();
 }

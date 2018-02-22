@@ -12,4 +12,5 @@ HEADERS += \
     pch.h \
     cor.h \
     flyweight.h \
-    mediator.h
+    mediator.h \
+    momento.h
