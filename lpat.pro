@@ -13,4 +13,5 @@ HEADERS += \
     cor.h \
     flyweight.h \
     mediator.h \
-    momento.h
+    momento.h \
+    interpreter.h

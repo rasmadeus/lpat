@@ -3,6 +3,7 @@
 #include "flyweight.h"
 #include "mediator.h"
 #include "momento.h"
+#include "interpreter.h"
 
 
 int main()
@@ -12,4 +13,5 @@ int main()
     Flyweight::test();
     Mediator::test();
     Momento::test();
+    Interpreter::test();
 }
